@@ -1,0 +1,78 @@
+x-elasticsearch: &elasticsearch
+  image: docker.elastic.co/elasticsearch/elasticsearch:${STACK_VERSION}
+  restart: unless-stopped
+  volumes:
+    - type: volume
+      source: es_data
+      target: /usr/share/elasticsearch/data
+  environment:
+    - "bootstrap.memory_lock=true"
+    - "cluster.name=es-cluster"
+    - "discovery.seed_hosts=elasticsearch1,elasticsearch2,elasticsearch3"
+    - "cluster.initial_master_nodes=elasticsearch1,elasticsearch2,elasticsearch3"
+    - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    - "xpack.security.enabled=false"
+    - "xpack.monitoring.collection.enabled=true"
+  healthcheck:
+    test: ["CMD", "curl", "-f", "http://localhost:9200"]
+    interval: 30s
+    timeout: 10s
+    retries: 30
+  ulimits:
+    memlock:
+      soft: -1
+      hard: -1
+
+services:
+  elasticsearch1:
+    <<: *elasticsearch
+    container_name: elasticsearch1
+    hostname: elasticsearch1
+    ports:
+      - "9200:9200"
+    volumes:
+      - type: volume
+        source: es1_data
+        target: /usr/share/elasticsearch/data
+
+  elasticsearch2:
+    <<: *elasticsearch
+    container_name: elasticsearch2
+    hostname: elasticsearch2
+    ports:
+      - "9201:9200"
+    volumes:
+      - type: volume
+        source: es2_data
+        target: /usr/share/elasticsearch/data
+
+  elasticsearch3:
+    <<: *elasticsearch
+    container_name: elasticsearch3
+    hostname: elasticsearch3
+    ports:
+      - "9202:9200"
+    volumes:
+      - type: volume
+        source: es3_data
+        target: /usr/share/elasticsearch/data
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:${STACK_VERSION}
+    container_name: kibana
+    restart: unless-stopped
+    environment:
+      - 'ELASTICSEARCH_HOSTS=["http://elasticsearch1:9200","http://elasticsearch2:9200","http://elasticsearch3:9200"]'
+      - "xpack.monitoring.ui.container.elasticsearch.enabled=true"
+    ports:
+      - "5601:5601"
+    volumes:
+      - type: volume
+        source: kibana_config
+        target: /usr/share/kibana/config
+
+volumes:
+  es1_data:
+  es2_data:
+  es3_data:
+  kibana_config:

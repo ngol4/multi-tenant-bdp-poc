@@ -1,0 +1,153 @@
+2025-03-14 11:10:00,008 - tenant1_batch - INFO - Starting batch ingestion for tenant: 'tenant1'
+2025-03-14 11:10:00,156 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d01.csv
+2025-03-14 11:10:00,156 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d01.csv
+2025-03-14 11:10:00,187 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:10:00,209 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d02.csv
+2025-03-14 11:10:00,209 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d02.csv
+2025-03-14 11:10:00,230 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:10:00,232 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d03.csv
+2025-03-14 11:10:00,232 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d03.csv
+2025-03-14 11:10:00,255 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:10:00,257 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d04.csv
+2025-03-14 11:10:00,257 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d04.csv
+2025-03-14 11:10:00,281 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:10:00,285 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d05.csv
+2025-03-14 11:10:00,285 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d05.csv
+2025-03-14 11:10:00,308 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:10:00,310 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d06.csv
+2025-03-14 11:10:00,310 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d06.csv
+2025-03-14 11:10:00,327 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:10:00,330 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d07.csv
+2025-03-14 11:10:00,330 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d07.csv
+2025-03-14 11:10:00,349 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:10:00,351 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d08.csv
+2025-03-14 11:10:00,351 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d08.csv
+2025-03-14 11:10:00,374 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:10:00,376 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d09.csv
+2025-03-14 11:10:00,376 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d09.csv
+2025-03-14 11:10:00,399 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:10:00,401 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d10.csv
+2025-03-14 11:10:00,401 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d10.csv
+2025-03-14 11:10:00,427 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:10:00,429 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d11.csv
+2025-03-14 11:10:00,429 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d11.csv
+2025-03-14 11:10:00,453 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:10:00,455 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d12.csv
+2025-03-14 11:10:00,455 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d12.csv
+2025-03-14 11:10:00,476 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:10:00,479 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d13.csv
+2025-03-14 11:10:00,479 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d13.csv
+2025-03-14 11:10:00,498 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:10:00,500 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d14.csv
+2025-03-14 11:10:00,501 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d14.csv
+2025-03-14 11:10:00,519 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:10:00,527 - tenant1_batch - INFO - Final processed DataFrame head:
+shape: (5, 14)
+┌───────────┬──────────┬──────────┬─────────┬───┬──────────┬──────────┬──────────┬──────────┐
+│ HashOwner ┆ HashApp  ┆ HashFunc ┆ Average ┆ … ┆ percenti ┆ percenti ┆ percenti ┆ percenti │
+│ ---       ┆ ---      ┆ tion     ┆ ---     ┆   ┆ le_Avera ┆ le_Avera ┆ le_Avera ┆ le_Avera │
+│ str       ┆ str      ┆ ---      ┆ f64     ┆   ┆ ge_50    ┆ ge_75    ┆ ge_99    ┆ ge_100   │
+│           ┆          ┆ str      ┆         ┆   ┆ ---      ┆ ---      ┆ ---      ┆ ---      │
+│           ┆          ┆          ┆         ┆   ┆ f64      ┆ f64      ┆ f64      ┆ f64      │
+╞═══════════╪══════════╪══════════╪═════════╪═══╪══════════╪══════════╪══════════╪══════════╡
+│ 5640c1597 ┆ 5126901e ┆ c968871b ┆ 100.0   ┆ … ┆ 1.0      ┆ 1.0      ┆ 1376.0   ┆ 2595.0   │
+│ ef75fa9a7 ┆ ff078c9a ┆ 4ef01234 ┆         ┆   ┆          ┆          ┆          ┆          │
+│ e9c692502 ┆ 1f5295c8 ┆ 01975d02 ┆         ┆   ┆          ┆          ┆          ┆          │
+│ 2a0…      ┆ 59c932…  ┆ 6b85ca…  ┆         ┆   ┆          ┆          ┆          ┆          │
+│ 5640c1597 ┆ 5126901e ┆ 1bc2d86b ┆ 202.0   ┆ … ┆ 1.0      ┆ 6.0      ┆ 2326.0   ┆ 2596.0   │
+│ ef75fa9a7 ┆ ff078c9a ┆ add21b18 ┆         ┆   ┆          ┆          ┆          ┆          │
+│ e9c692502 ┆ 1f5295c8 ┆ a8533d8e ┆         ┆   ┆          ┆          ┆          ┆          │
+│ 2a0…      ┆ 59c932…  ┆ 961e52…  ┆         ┆   ┆          ┆          ┆          ┆          │
+│ 41d6e09d0 ┆ 77a93348 ┆ b4d7cb99 ┆ 11.0    ┆ … ┆ 5.0      ┆ 8.0      ┆ 155.0    ┆ 3146.0   │
+│ f86f5aaa1 ┆ 150f5281 ┆ 85cd8c1b ┆         ┆   ┆          ┆          ┆          ┆          │
+│ df842c1ac ┆ c32c9027 ┆ 7fe5ef88 ┆         ┆   ┆          ┆          ┆          ┆          │
+│ 4f1…      ┆ 870a77…  ┆ 8bbde1…  ┆         ┆   ┆          ┆          ┆          ┆          │
+│ e117b8c16 ┆ 5c84cc1f ┆ ff612aae ┆ 0.0     ┆ … ┆ 0.0      ┆ 0.0      ┆ 1.0      ┆ 10.0     │
+│ 76e11d859 ┆ bc4261f2 ┆ 7b380ef8 ┆         ┆   ┆          ┆          ┆          ┆          │
+│ 824b18fc0 ┆ 2d6f6263 ┆ 1ccef063 ┆         ┆   ┆          ┆          ┆          ┆          │
+│ 202…      ┆ 046709…  ┆ ff8143…  ┆         ┆   ┆          ┆          ┆          ┆          │
+│ 3c8c13c6b ┆ 3b80dfff ┆ ee79840d ┆ 389.0   ┆ … ┆ 136.0    ┆ 180.0    ┆ 4761.0   ┆ 5607.0   │
+│ d162490da ┆ 06522094 ┆ a8252554 ┆         ┆   ┆          ┆          ┆          ┆          │
+│ e4402bcb9 ┆ 7f7d626d ┆ 8358f4b9 ┆         ┆   ┆          ┆          ┆          ┆          │
+│ ff1…      ┆ d6c917…  ┆ 1d9fa1…  ┆         ┆   ┆          ┆          ┆          ┆          │
+└───────────┴──────────┴──────────┴─────────┴───┴──────────┴──────────┴──────────┴──────────┘
+2025-03-14 11:10:01,877 - tenant1_batch - INFO - Data size: 269.96 MB and Number of rows: 662927 for tenant: tenant1
+2025-03-14 11:10:40,894 - tenant1_batch - INFO - METRICS - tenant1 - Successfully ingested data for tenant.
+2025-03-14 11:10:40,895 - tenant1_batch - INFO - METRICS data collected for tenant tenant1: {"pipeline_start": "2025-03-14 11:10:00", "data_size_mb": 269.95655155181885, "num_rows": 662927, "ingestion_time": 40.8863251209259, "pipeline_end": "2025-03-14 11:10:40"}
+2025-03-14 11:10:41,210 - tenant1_batch - INFO - Metrics inserted into CoreDMS for tenant tenant1
+2025-03-14 11:10:41,211 - tenant1_batch - INFO - METRICS-Ingestion completed in 40.8863 seconds for tenant: tenant1
+2025-03-14 11:10:41,211 - tenant1_batch - INFO - METRICS-Tenant tenant1 batch ingestion complete.
+2025-03-14 11:11:00,003 - tenant1_batch - INFO - Starting batch ingestion for tenant: 'tenant1'
+2025-03-14 11:11:00,027 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d01.csv
+2025-03-14 11:11:00,028 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d01.csv
+2025-03-14 11:11:00,054 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:11:00,060 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d02.csv
+2025-03-14 11:11:00,060 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d02.csv
+2025-03-14 11:11:00,080 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:11:00,082 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d03.csv
+2025-03-14 11:11:00,082 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d03.csv
+2025-03-14 11:11:00,101 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:11:00,104 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d04.csv
+2025-03-14 11:11:00,104 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d04.csv
+2025-03-14 11:11:00,122 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:11:00,124 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d05.csv
+2025-03-14 11:11:00,125 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d05.csv
+2025-03-14 11:11:00,143 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:11:00,146 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d06.csv
+2025-03-14 11:11:00,146 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d06.csv
+2025-03-14 11:11:00,159 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:11:00,161 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d07.csv
+2025-03-14 11:11:00,162 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d07.csv
+2025-03-14 11:11:00,178 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:11:00,180 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d08.csv
+2025-03-14 11:11:00,180 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d08.csv
+2025-03-14 11:11:00,199 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:11:00,201 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d09.csv
+2025-03-14 11:11:00,202 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d09.csv
+2025-03-14 11:11:00,221 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:11:00,224 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d10.csv
+2025-03-14 11:11:00,224 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d10.csv
+2025-03-14 11:11:00,244 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:11:00,248 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d11.csv
+2025-03-14 11:11:00,248 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d11.csv
+2025-03-14 11:11:00,270 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:11:00,275 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d12.csv
+2025-03-14 11:11:00,276 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d12.csv
+2025-03-14 11:11:00,294 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:11:00,297 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d13.csv
+2025-03-14 11:11:00,297 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d13.csv
+2025-03-14 11:11:00,317 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:11:00,319 - tenant1_batch - INFO - Checking file path: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d14.csv
+2025-03-14 11:11:00,319 - tenant1_batch - INFO - Processing file: /Users/linhngo/Documents/GitHub/CS-E4640/assignment-2-906502/data/azurefunctions-dataset2019/function_durations_percentiles.anon.d14.csv
+2025-03-14 11:11:00,337 - tenant1_batch - INFO - Processing data and enforcing schema...
+2025-03-14 11:11:00,343 - tenant1_batch - INFO - Final processed DataFrame head:
+shape: (5, 14)
+┌───────────┬──────────┬──────────┬─────────┬───┬──────────┬──────────┬──────────┬──────────┐
+│ HashOwner ┆ HashApp  ┆ HashFunc ┆ Average ┆ … ┆ percenti ┆ percenti ┆ percenti ┆ percenti │
+│ ---       ┆ ---      ┆ tion     ┆ ---     ┆   ┆ le_Avera ┆ le_Avera ┆ le_Avera ┆ le_Avera │
+│ str       ┆ str      ┆ ---      ┆ f64     ┆   ┆ ge_50    ┆ ge_75    ┆ ge_99    ┆ ge_100   │
+│           ┆          ┆ str      ┆         ┆   ┆ ---      ┆ ---      ┆ ---      ┆ ---      │
+│           ┆          ┆          ┆         ┆   ┆ f64      ┆ f64      ┆ f64      ┆ f64      │
+╞═══════════╪══════════╪══════════╪═════════╪═══╪══════════╪══════════╪══════════╪══════════╡
+│ 5640c1597 ┆ 5126901e ┆ c968871b ┆ 100.0   ┆ … ┆ 1.0      ┆ 1.0      ┆ 1376.0   ┆ 2595.0   │
+│ ef75fa9a7 ┆ ff078c9a ┆ 4ef01234 ┆         ┆   ┆          ┆          ┆          ┆          │
+│ e9c692502 ┆ 1f5295c8 ┆ 01975d02 ┆         ┆   ┆          ┆          ┆          ┆          │
+│ 2a0…      ┆ 59c932…  ┆ 6b85ca…  ┆         ┆   ┆          ┆          ┆          ┆          │
+│ 5640c1597 ┆ 5126901e ┆ 1bc2d86b ┆ 202.0   ┆ … ┆ 1.0      ┆ 6.0      ┆ 2326.0   ┆ 2596.0   │
+│ ef75fa9a7 ┆ ff078c9a ┆ add21b18 ┆         ┆   ┆          ┆          ┆          ┆          │
+│ e9c692502 ┆ 1f5295c8 ┆ a8533d8e ┆         ┆   ┆          ┆          ┆          ┆          │
+│ 2a0…      ┆ 59c932…  ┆ 961e52…  ┆         ┆   ┆          ┆          ┆          ┆          │
+│ 41d6e09d0 ┆ 77a93348 ┆ b4d7cb99 ┆ 11.0    ┆ … ┆ 5.0      ┆ 8.0      ┆ 155.0    ┆ 3146.0   │
+│ f86f5aaa1 ┆ 150f5281 ┆ 85cd8c1b ┆         ┆   ┆          ┆          ┆          ┆          │
+│ df842c1ac ┆ c32c9027 ┆ 7fe5ef88 ┆         ┆   ┆          ┆          ┆          ┆          │
+│ 4f1…      ┆ 870a77…  ┆ 8bbde1…  ┆         ┆   ┆          ┆          ┆          ┆          │
+│ e117b8c16 ┆ 5c84cc1f ┆ ff612aae ┆ 0.0     ┆ … ┆ 0.0      ┆ 0.0      ┆ 1.0      ┆ 10.0     │
+│ 76e11d859 ┆ bc4261f2 ┆ 7b380ef8 ┆         ┆   ┆          ┆          ┆          ┆          │
+│ 824b18fc0 ┆ 2d6f6263 ┆ 1ccef063 ┆         ┆   ┆          ┆          ┆          ┆          │
+│ 202…      ┆ 046709…  ┆ ff8143…  ┆         ┆   ┆          ┆          ┆          ┆          │
+│ 3c8c13c6b ┆ 3b80dfff ┆ ee79840d ┆ 389.0   ┆ … ┆ 136.0    ┆ 180.0    ┆ 4761.0   ┆ 5607.0   │
+│ d162490da ┆ 06522094 ┆ a8252554 ┆         ┆   ┆          ┆          ┆          ┆          │
+│ e4402bcb9 ┆ 7f7d626d ┆ 8358f4b9 ┆         ┆   ┆          ┆          ┆          ┆          │
+│ ff1…      ┆ d6c917…  ┆ 1d9fa1…  ┆         ┆   ┆          ┆          ┆          ┆          │
+└───────────┴──────────┴──────────┴─────────┴───┴──────────┴──────────┴──────────┴──────────┘
+2025-03-14 11:11:00,637 - tenant1_batch - INFO - Data size: 269.96 MB and Number of rows: 662927 for tenant: tenant1

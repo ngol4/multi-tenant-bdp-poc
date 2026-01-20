@@ -1,0 +1,6 @@
+pyyaml
+apscheduler
+confluent-kafka
+polars
+prometheus-client
+elasticsearch

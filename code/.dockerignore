@@ -1,0 +1,19 @@
+# Ignore Python cache files
+*.pyc
+*.pyo
+__pycache__
+
+# Ignore git directories
+.git
+.gitignore
+
+# Ignore node_modules or other heavy directories
+node_modules
+.vscode
+.idea
+*.log
+*.md
+
+# Ignore other unnecessary files
+*.swp
+*.DS_Store

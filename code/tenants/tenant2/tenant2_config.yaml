@@ -1,0 +1,17 @@
+# Tenant configuration file for tenant <tenantID>_config.yamlservice_agreement:
+max_concurrent_ingestions: 3  # Max number of concurrent ingestion jobs allowed
+priority: "high"  # Processing priority (e.g., high, medium, low)
+sla:
+    # Service Level Agreement parameters
+    max_ingestion_time_seconds: 3000  # Max allowed time for data ingestion (in seconds)
+    max_processing_time_seconds: 6000  # Max allowed processing time for transformations (in seconds)
+
+data_file_constraints:
+  file_size_limit_mb: 1000
+  allowed_file_types:
+    - "csv"  
+    - "json" 
+    - "yaml"
+
+schedule_interval: "*/2 * * * *"
+

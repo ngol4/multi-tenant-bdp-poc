@@ -1,0 +1,2 @@
+2025-03-14 11:10:00,008 - tenant2_batch - INFO - Starting batch ingestion for tenant: 'tenant2'
+2025-03-14 11:10:00,162 - tenant2_batch - ERROR - METRICS - tenant2 - Error in executing the batch pipeline for tenant: 'TenantBatch' object has no attribute 'logger'

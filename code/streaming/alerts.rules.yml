@@ -1,0 +1,32 @@
+groups:
+  - name: kafka-alerts
+    rules:
+      - alert: HighConsumptionErrorRate
+        expr: rate(kafka_consumption_errors_total[5m]) > 5
+        for: 5m
+        annotations:
+          description: "More than 5 consumption errors occurred in the last 5 minutes"
+          summary: "High rate of consumption errors"
+
+      - alert: HighConsumptionLatency
+        expr: kafka_consumption_latency_seconds{quantile="0.9"} > 2
+        for: 5m
+        annotations:
+          description: "90th percentile consumption latency is higher than 2 seconds"
+          summary: "High message consumption latency"
+
+      - alert: LowMessageConsumptionRate
+        expr: rate(kafka_messages_consumed_total[5m]) < 1
+        for: 10m
+        annotations:
+          description: "The rate of messages consumed is less than 1 message per minute"
+          summary: "Low Kafka consumer throughput"
+
+  - name: python-app-alerts
+    rules:
+      - alert: HighAverageIngestionTime
+        expr: kafka_average_ingestion_time_seconds > 1
+        for: 5m
+        annotations:
+          description: "The average ingestion time for Kafka messages is more than 1 second."
+          summary: "High Kafka message ingestion time"
